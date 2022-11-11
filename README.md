@@ -14,9 +14,9 @@
 - BSc in Industrial & Manufacturing Syestems Engineering at **Taiz University, Yemen** (2014-2020).
 
 ###  2. Scientific Research
-    - Implementing an integrated maintenance management system for monitoring production lines: A case study for biscuit industry,Journal of Quality in Maintenance Engineering,October 2020. ((https://doi.org/10.1108/JQME-06-2020-0049))
+- Implementing an integrated maintenance management system for monitoring production lines: A case study for biscuit industry,Journal of Quality in Maintenance Engineering,October 2020. ((https://doi.org/10.1108/JQME-06-2020-0049))
     
-    - Mechanical performance and feasibility analysis of green concrete prepared with local natural zeolite and waste PET plastic fibers as cement replacements,Case Studies in Construction Materials Volume 17, December 2022.((https://doi.org/10.1016/j.cscm.2022.e01256))
+- Mechanical performance and feasibility analysis of green concrete prepared with local natural zeolite and waste PET plastic fibers as cement replacements,Case Studies in Construction Materials Volume 17, December 2022.((https://doi.org/10.1016/j.cscm.2022.e01256))
 
 
 ## Skills
