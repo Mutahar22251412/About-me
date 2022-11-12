@@ -1,13 +1,13 @@
 <h1 align = center> WELCOME TO MY PAGE ^ __ ^</h1>
 
-## Personal Info:                                                    
-<img align="right" width="300"> "![1668281133348](https://user-images.githubusercontent.com/115612222/201492092-59b023f4-7d75-4412-a755-60371b4c1fec.jpg)
+## Personal Info:    
 
 - Name: Mutahar Fouad Faed Al-shameri 
 - Tel: +967-711328831
 - Email: mutaher17@gmail.com
 - University Email: mutahar_shameri@zju.edu.cn
 - Current location: Taiz_Yemen.
+<img align= left> "![1668281133348](https://user-images.githubusercontent.com/115612222/201492092-59b023f4-7d75-4412-a755-60371b4c1fec.jpg)
 
 
  ## Academic Info:
