@@ -1,7 +1,7 @@
 <h1 align = center> WELCOME TO MY PAGE ^ __ ^</h1>
 
 ## Personal Info:                                                    
-<img align="right" width="300" src="![1668281133348](https://user-images.githubusercontent.com/115612222/201492092-59b023f4-7d75-4412-a755-60371b4c1fec.jpg)>
+<img align="right" width="300"> "![1668281133348](https://user-images.githubusercontent.com/115612222/201492092-59b023f4-7d75-4412-a755-60371b4c1fec.jpg)
 
 - Name: Mutahar Fouad Faed Al-shameri 
 - Tel: +967-711328831
