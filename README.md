@@ -1,4 +1,4 @@
-<h1 align = center> WELCOME TO MY PAGE ^ __ ^</h1>
+<h1 align = right> WELCOME TO MY PAGE ^ __ ^</h1>
 
 ## Personal Info:    
 
