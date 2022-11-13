@@ -11,8 +11,8 @@
 <img style="float: center;" width="300" src="https://user-images.githubusercontent.com/115612222/201492092-59b023f4-7d75-4412-a755-60371b4c1fec.jpg">
 
 
- ## Academic Info:
- ### 1. Education
+## Academic Info:
+### 1. Education
 - MS in Industrial Design Engineering at **Zhejiang University**.
 - BSc in Industrial & Manufacturing Syestems Engineering at **Taiz University, Yemen** (2014-2020).
 
